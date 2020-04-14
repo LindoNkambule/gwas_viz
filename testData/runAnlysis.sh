@@ -1,5 +1,7 @@
 #!/usr/local/bash
 
+# This script is for reproducing the data for testing the application
+
 #1. Download PLINK
 wget http://s3.amazonaws.com/plink1-assets/plink_linux_x86_64_20200219.zip
 unzip plink_linux_x86_64_20200219.zip
