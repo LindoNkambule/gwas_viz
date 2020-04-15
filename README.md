@@ -6,7 +6,7 @@ an R shiny web application for visualizing genome-wide association studies (GWAS
 * Manhattan
 * Principal Component Analysis
 
-The application is freely available at [gwaRs](https://gwasviz.shinnyapps.io/gwars)
+The application is freely available at [gwaRs](https://gwasviz.shinyapps.io/gwaRs/)
 
 ## Test data
 If you want to test gwaRs, you can use the `runAnalysis.sh` script to download the test data and all required software to perform the analysis.
