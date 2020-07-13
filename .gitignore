@@ -1,0 +1,8 @@
+.git
+.DS_Store
+.ipynb_checkpoints
+.RData
+.Rhistory
+rsconnect/
+UsingFread.ipynb
+functions/admixtureFun.R
